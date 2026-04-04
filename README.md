@@ -1,12 +1,12 @@
-# Project #1: Beats Consumer Insights Analysis
+## Project #1: Beats Consumer Insights Analysis
 
-## Overview
+### Overview
 
 This project is an interactive consumer insights and data analytics website based on my internship with Beats by Dre. This analysis leveraged Amazon review data from Beats and four competitors (Bose, JBL, Sony, and Sennheiser) to analyze customer sentiment, product performance, and competitive positioning.
 
 The goal was to turn large amounts of customer feedback into clear business insights and recommendations.
 
-## Purpose
+### Purpose
 
 This analysis was designed to:
 
@@ -15,9 +15,9 @@ This analysis was designed to:
 * Compare Beats to major competitors
 * Translate customer feedback into actionable recommendations
 
-## What the Website Covers
+### What the Website Covers
 
-### Data Collection and Cleaning
+#### Data Collection and Cleaning
 
 The project uses over 1,000 Amazon customer reviews across multiple products and brands. I built a structured pipeline to:
 
@@ -26,7 +26,7 @@ The project uses over 1,000 Amazon customer reviews across multiple products and
 * Remove outliers using z-scores
 * Prepare the data for analysis
 
-### Descriptive Statistics
+#### Descriptive Statistics
 
 I analyzed:
 
@@ -36,7 +36,7 @@ I analyzed:
 
 The results showed that Beats, Bose, and JBL all performed strongly, with Beats maintaining high ratings and relatively low variation.
 
-### Sentiment Analysis and AI Insights
+#### Sentiment Analysis and AI Insights
 
 Using Python, NLTK VADER, TextBlob, and Gemini AI, I:
 
@@ -59,7 +59,7 @@ The most common concerns were:
 * Touch controls
 * Price relative to competitors
 
-### Strategic Recommendations
+#### Strategic Recommendations
 
 Based on the analysis, I recommended:
 
@@ -70,7 +70,7 @@ Based on the analysis, I recommended:
 
 The website also includes a SWOT analysis and ideas for future research, including segmentation, price sensitivity, and churn prediction.
 
-## Technical Implementation
+### Technical Implementation
 
 The website combines:
 
@@ -81,10 +81,10 @@ The website combines:
 
 This project demonstrates both the technical side of data analysis and the ability to communicate findings clearly.
 
-## Internship Impact
+### Internship Impact
 
 I completed this work during a five-week internship with Beats by Dre. After analyzing over 1,000 customer reviews, I presented my findings to the Consumer Insights executive team. My recommendations helped start discussions around strategies that could improve consumer preference for Beats products by about 5%.
 
-## Why This Project Matters
+### Why This Project Matters
 
 This project shows how unstructured customer reviews can be transformed into measurable insights and business strategy. It reflects the kind of work I enjoy most: combining data, AI, and business thinking to solve real-world problems.

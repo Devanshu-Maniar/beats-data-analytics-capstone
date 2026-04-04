@@ -1,5 +1,7 @@
 ## Project #1: Beats Consumer Insights Analysis
 
+[View the Interactive Website](https://rb.gy/1lb34b)
+
 ### Overview
 
 This project is an interactive consumer insights and data analytics website based on my internship with Beats by Dre. This analysis leveraged Amazon review data from Beats and four competitors (Bose, JBL, Sony, and Sennheiser) to analyze customer sentiment, product performance, and competitive positioning.
